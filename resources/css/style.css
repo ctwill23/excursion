@@ -19,9 +19,10 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300px;
     font-size: 42px;
+    color:#fff
 }
 
-.p2 {
+.p--2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
     color: gray;
@@ -31,4 +32,12 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300px;
     font-size: 42px;
+    color: #fff;
+}
+
+.header--5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300px;
+    font-size: 42px;
+    color: #fff;
 }
